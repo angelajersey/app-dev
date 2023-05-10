@@ -7,3 +7,5 @@ My first repository
     <h1> My Favorite Series </h1>
     
   </body>   
+  
+</html>
